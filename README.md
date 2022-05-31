@@ -4,11 +4,11 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   <br>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
+  <a href="https://github.com/Ne0001/FileSharing-Bot//stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+  <a href="https://github.com/Ne0001/FileSharing-Bot/fork">
+    <img src="https://img.shields.io/github/forks/Ne0001/FileSharing-Bot?label=Fork&style=social">
   </a>  
 </p>
 
@@ -114,7 +114,7 @@ Report Bugs, Give Feature Requests There..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/Ne0001/FileSharing-Bot/) is Free Software: You can use, study share and improve it at your
+[FILESHARING-BOT](https://github.com/Ne0001/FileSharing-Bot/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
